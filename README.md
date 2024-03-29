@@ -1,6 +1,6 @@
 # Instagram-Like-Effect-
 
-So guys this is 10th project of my 30 days frontend project challenge 
+So guys this is 10th project of my 25 days frontend project challenge 
 
 This is a effect similar to Instagram like effect when you double click on picture a heart comes and goes back after some time 
 
